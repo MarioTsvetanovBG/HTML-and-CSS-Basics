@@ -1,0 +1,27 @@
+div {
+    display: inline-block;
+    font-size: 100px;
+}
+
+div.zeleno {
+    background-color: green;
+}
+
+div.cherveno {
+    background-color: red;
+}
+
+
+div.lilavo {
+    background-color: purple;
+}
+
+.sinio {
+    background-color: blue;
+}
+
+.portokal {
+    background-color: orange;
+}
+
+
